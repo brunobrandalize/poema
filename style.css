@@ -1,9 +1,9 @@
 body {
-    background: #f0e9e9
+    background: #5e9b77
 }
 h1{ 
     text-align:center;
-    color: rgb(11, 75, 75);
+    color: rgb(49, 36, 172);
 }
 
 p {
@@ -11,5 +11,5 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #4b2222;
 }
