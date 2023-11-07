@@ -3,13 +3,17 @@ body {
 }
 h1{ 
     text-align:center;
-    color: rgb(49, 36, 172);
+    color: rgb(41, 34, 112);
 }
 
 p {
     text-align: center;
 }
-
+H2{text-align: center;}
 em strong {
-    color: #4b2222;
+    color: #973030;
 }
+h3{text-align: center;
+color: rgb(19, 58, 91);
+}
+li{text-align: center;}
